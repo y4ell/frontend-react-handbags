@@ -28,7 +28,7 @@ Open http://localhost:5173/ om de pagina in de browser te bekijken. Begin met he
 
 ## Hoe je deze opdracht gaat maken
 * Je hoeft zelf geen styling toe te voegen aan de applicatie, die verschijnt vanzelf.
-* We volgen telkens het format waarin je de elementen eerst meerdere keren herhalend uitschrijft in `App.js` en er dáárna een component van maakt.
+* We volgen telkens het format waarin je de elementen eerst meerdere keren herhalend uitschrijft in `App.jsx` en er dáárna een component van maakt.
 
 ## Stappenplan
 ### Buttons
